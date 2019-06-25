@@ -1,7 +1,7 @@
 # Le_Knights_Tour_Feb2019
 ## Language: C++
-## Kernel: Linux Raspbian 4.9.59-v7+  
-## Compiler: GNU Compiler Collection (Raspbian 6.3.0)  
+## OS: Windows 10  
+## Compiler: Visual Studio 2019  
 
 *** ***Version 1.0*** ***  
 Last date modified: Jun 25, 2019  
