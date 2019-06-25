@@ -5,7 +5,7 @@
 
 *** ***Version 1.0*** ***  
 Last date modified: Jun 25, 2019  
-##Issues:  
+## Issues:  
 1.  Many combinations of points takes too long for recursion
 
 ## Description:  
