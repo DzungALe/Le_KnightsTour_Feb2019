@@ -5,6 +5,8 @@
 
 *** ***Version 1.0*** ***  
 Last date modified: Jun 25, 2019  
+##Issues:  
+1.  Many combinations of points takes too long for recursion
 
 ## Description:  
 1.  Prompts user to input a beginning point on a chess board (Using proper notation)  
